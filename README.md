@@ -6,7 +6,7 @@ The components folder in the app directory is for holding all the components. Th
 
 public/assets holds the images and svgs for ease of access.  
 constant holds the reusable data or strings like API URLSs, configuration settings or UI text.  
-Intercaes holds all the interfaces that will be used in the app.  
+Interfaces holds all the interfaces that will be used in the app.  
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
